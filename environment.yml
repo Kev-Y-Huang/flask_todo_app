@@ -1,0 +1,7 @@
+name: flask_app
+dependencies:
+  - python=3.10
+  - pip:
+    - flask
+    - flask-sqlalchemy
+    - gunicorn
